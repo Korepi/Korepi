@@ -1,0 +1,3 @@
+map_undeground_mines https://sg-public-api-static.hoyolab.com/common/map_user/ys_obc/v1/map/point/list?map_id=9&app_sn=ys_obc&lang=en-us
+map_enkanomiya https://sg-public-api-static.hoyolab.com/common/map_user/ys_obc/v1/map/point/list?map_id=7&app_sn=ys_obc&lang=en-us
+map_teyvat https://sg-public-api-static.hoyolab.com/common/map_user/ys_obc/v1/map/point/list?map_id=2&app_sn=ys_obc&lang=en-us

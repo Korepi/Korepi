@@ -1,0 +1,21 @@
+[submodule "cheat-base/vendor/simpleIni"]
+	path = cheat-base/vendor/simpleIni
+	url = https://github.com/brofield/simpleini.git
+[submodule "cheat-base/vendor/fmt"]
+	path = cheat-base/vendor/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "cheat-base/vendor/magic_enum"]
+	path = cheat-base/vendor/magic_enum
+	url = https://github.com/Neargye/magic_enum.git
+[submodule "cheat-library/vendor/json"]
+	path = cheat-base/vendor/json
+	url = https://github.com/nlohmann/json.git
+[submodule "cheat-base/vendor/stb"]
+	path = cheat-base/vendor/stb
+	url = https://github.com/nothings/stb.git
+[submodule "cheat-base/vendor/imgui"]
+	path = cheat-base/vendor/imgui
+	url = https://github.com/CallowBlack/imgui-brightness-fix.git
+[submodule "cheat-base/vendor/WinReg"]
+	path = cheat-base/vendor/WinReg
+	url = https://github.com/GiovanniDicanio/WinReg.git
