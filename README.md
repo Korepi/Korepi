@@ -16,15 +16,9 @@
 
 <h1 align="center">Getting Started</h1>
 
-## Stable Release
+## Release
 1. Head over to the [releases page](https://github.com/Korepi/Korepi/releases)
 2. Download the latest binaries
-
-## Latest Release
-1. Head over to the [Action](https://github.com/Korepi/Korepi/actions) page
-1. Click Publish workflow
-1. Select most recent workflow with green checkmark ✔
-4. Download Akebi-GC-release in Artifacts section
 
 ### Usage
 1. Ensure that `HoYoKProtect.dll` is in the same folder that `injector.exe`.
