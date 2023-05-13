@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#"><img width="500" height="500" src=""></a>
-  <a href="#"><img width="690" height="133" src=""></a>
+  <a href="#"><img width="500" height="500" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
+  <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
 <p align="center">
@@ -10,21 +10,15 @@
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md)
+[EN](README.md) [VI](README_vn-vn.md)
 
 ---
 
 <h1 align="center">Getting Started</h1>
 
-## Stable Release
+## Release
 1. Head over to the [releases page](https://github.com/Korepi/Korepi/releases)
 2. Download the latest binaries
-
-## Latest Release
-1. Head over to the [Action](https://github.com/Korepi/Korepi/actions) page
-1. Click Publish workflow
-1. Select most recent workflow with green checkmark ✔
-4. Download Akebi-GC-release in Artifacts section
 
 ### Usage
 1. Ensure that `HoYoKProtect.dll` is in the same folder that `injector.exe`.
