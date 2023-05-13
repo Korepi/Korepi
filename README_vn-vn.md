@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="500" height="500" src="https://www.flaticon.com/free-icon/matches_709027"></a>	
+  <a href="#"><img width="500" height="500" src="https://discord.com/channels/1033549665276280872/1033549666769449002/1107009612437262386"></a>	
   <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
