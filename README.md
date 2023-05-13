@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#"><img width="500" height="500" src=""></a>
-  <a href="#"><img width="690" height="133" src=""></a>
+  <a href="#"><img width="500" height="500" src="https://png.pngtree.com/png-clipart/20190629/original/pngtree-vector-scissor-icon-png-image_4072403.jpg"></a>
+  <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md)
+[EN](README.md) [VI](README_vn-vn.md)
 
 ---
 
