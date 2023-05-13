@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="500" height="500" src="https://png.pngtree.com/png-clipart/20190629/original/pngtree-vector-scissor-icon-png-image_4072403.jpg"></a>
+  <a href="#"><img width="500" height="500" src="https://cdn-icons-png.flaticon.com/512/6342/6342526.png"></a>
   <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
