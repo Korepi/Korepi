@@ -1,3 +1,5 @@
+<h1 align="center">Korepi</h1>
+
 <p align="center">
   <a href="#"><img width="500" height="500" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
   <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
@@ -10,46 +12,51 @@
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md) [VI](README_vn-vn.md)
+## [EN](README.md) | [VI](README_vn-vn.md)
 
 ---
 
-<h1 align="center">Getting Started</h1>
+<h2 align="center">Getting Started</h2>
 
 ## Release
+
 1. Head over to the [releases page](https://github.com/Korepi/Korepi/releases)
 2. Download the latest binaries
 
 ### Usage
+
 1. Ensure that `HoYoKProtect.dll` is in the same folder that `injector.exe`.
 2. Run `injector.exe`.
 3. Select `GenshinImpact.exe` or `YuanShen.exe`.
 4. Game will be launched automatically, wait for interface to appear.
 5. Press F1 to open Korepi GUI.
 
-<h1 align="center">Features</h1>
+<h2 align="center">Features</h2>
 
 #### General
+
 - Protection Bypass
 - In-Game GUI
 - Hotkeys
 - Notifications
 
 #### Player
-- God Mode(Invincible)
-- Attack Modifier: Multi-Hit/Target/Animation
-- No Cooldown: Skill/Ultimate/Sprint/Bow
+
+- God Mode (Invincible)
+- Attack Modifier: Multi-Hit / Target / Animation
+- No Cooldown: Skill / Ultimate / Sprint / Bow
 - Unlimited Stamina
 - No Clip
 
 #### World
+
 - Auto Seelie
 - Open Team Immediately
 - GameSpeed
 - Dumb Enemies
 - Freeze Enemies
-- Auto Destroy: Ores/Shields/Doodads/Plants
-- Auto Loot/Open Chests
+- Auto Destroy: Ores / Shields / Doodads / Plants
+- Auto Loot / Open Chests
 - Pickup Range
 - Auto Talk
 - Auto Tree Farm
@@ -61,11 +68,13 @@
 - Vacuum Loot
 
 #### Teleport
-- Chest/Oculi Teleport (Teleports to nearest)
+
+- Chest / Oculi Teleport (Teleports to nearest)
 - Map Teleport (Teleport to mark on map)
 - Custom Teleport (Teleport through list)
 
-#### Visuals 
+#### Visuals
+
 - ESP
 - Interactive Map
 - Elemental Sight
@@ -76,26 +85,27 @@
 - Hide UI
 - In-game Embedded Browser
 - Enable Peeking
-- Profile Changer: UID/Nickname/AR/WorldLevel/Avatar/Namecard
+- Profile Changer: UID / Nickname / AR / WorldLevel / Avatar / Namecard
 - Custom Weather
 - Free Camera
 - Paimon Follow
 - Texture Changer
 
 #### Debugging
+
 - Entities Manager
 - Position Info
 - FPS Graph
 - [Packet Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
-<h1 align="center">Demo</h1>
+<h2 align="center">Demo</h2>
 
 <details>
   <summary>Map Teleportation</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/map-teleport-demo.gif"/>
 </details>
 <details>
-  <summary>Noclip</summary>
+  <summary>No clip</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/noclip-demo.gif"/>
 </details>
 <details>
@@ -115,27 +125,27 @@
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
 </details>
 
-<h1 align="center">Bugs</h1>
+<h2 align="center">Bugs</h2>
 
 Welcome to the short explanation for bug reporting
 
 1. You found a bug.
 1. Write down what happened, as well as your first thoughts on what you think caused it.
-1. Can it be reproduced? Yes or no. If yes: Explain in as much clear as possible. i.e what happens when the bug occurs and why it occurs. 
-1. Tell us which version you are using. copy the `SHA`/ Version Number of the latest commit when you built the mod. For example: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
-1. [Open an Issue(there's a template!)](https://github.com/Korepi/Korepi/issues)
+1. Can it be reproduced? Yes or no. If yes: Explain it as clearly as possible, i.e., what happens when the bug occurs and why it occurs.
+1. Tell us which version you are using. Copy the `SHA` / Version Number of the latest commit when you built the mod. For example: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
+1. [Open an Issue (there's a template!)](https://github.com/Korepi/Korepi/issues)
 
-<h1 align="center">Contributing</h1>
-
+<h2 align="center">Contributing</h2>
 
 ## Adding a feature
-1. Fork the Project
+
+1. Fork the project
 1. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 1. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 1. Push to the Branch (`git push origin feature/AmazingFeature`)
-2. [Open a Pull Request](https://github.com/Korepi/Korepi/pulls)
+1. [Open a Pull Request](https://github.com/Korepi/Korepi/pulls)
 
 ## Suggestions
 
 Open an [issue](https://github.com/Korepi/Korepi/issues) with the title of the suggestion you want to make.
-In the description, make sure it is **descriptive enough** so our devs can understand what you want and how you want it.  
+In the description, make sure it is **descriptive enough** so our devs can understand what you want and how you want it.

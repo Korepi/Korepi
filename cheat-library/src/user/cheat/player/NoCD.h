@@ -2,10 +2,10 @@
 #include <cheat-base/cheat/Feature.h>
 #include <cheat-base/config/config.h>
 
-namespace cheat::feature 
+namespace cheat::feature
 {
 	class NoCD : public Feature
-    {
+	{
 	public:
 		config::Field<TranslatedHotkey> f_AbilityReduce;
 		config::Field<float> f_TimerReduce;
@@ -14,16 +14,15 @@ namespace cheat::feature
 		config::Field<TranslatedHotkey> f_Sprint;
 		config::Field<TranslatedHotkey> f_InstantBow;
 
-		static NoCD& GetInstance();
+		static NoCD &GetInstance();
 
-		const FeatureGUIInfo& GetGUIInfo() const override;
+		const FeatureGUIInfo &GetGUIInfo() const override;
 		void DrawMain() override;
 
 		virtual bool NeedStatusDraw() const override;
 		void DrawStatus() override;
-	
+
 	private:
 		NoCD();
 	};
 }
-

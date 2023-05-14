@@ -8,14 +8,14 @@
 namespace cheat::feature
 {
     GameSpeed::GameSpeed() : Feature(),
-        NFP(f_Enabled, "GameSpeed", "Game Speed", false),
-        NF(f_Hotkey, "GameSpeed", Hotkey(VK_CAPITAL)),
-        NF(f_Speed, "GameSpeed", 5.0f)
+                             NFP(f_Enabled, "GameSpeed", "Game Speed", false),
+                             NF(f_Hotkey, "GameSpeed", Hotkey(VK_CAPITAL)),
+                             NF(f_Speed, "GameSpeed", 5.0f)
     {
         events::GameUpdateEvent += MY_METHOD_HANDLER(GameSpeed::OnGameUpdate);
     }
 
-    const FeatureGUIInfo& GameSpeed::GetGUIInfo() const
+    const FeatureGUIInfo &GameSpeed::GetGUIInfo() const
     {
         TRANSLATED_GROUP_INFO("Game Speed", "World");
         return info;
@@ -24,9 +24,9 @@ namespace cheat::feature
     void GameSpeed::DrawMain()
     {
         ConfigWidget(_TR("Enabled"), f_Enabled, _TR("Speeds up game with hotkey"));
-		ConfigWidget(_TR("Hotkey"), f_Hotkey);
-		ConfigWidget(_TR("Multiplier"), f_Speed, 1.0f, 0.0f, 20.0f, _TR("Set GameSpeed Multiplier\n" \
-			"Do NOT use this in the Open World, only use in menus/etc, VERY DANGEROUS!"));
+        ConfigWidget(_TR("Hotkey"), f_Hotkey);
+        ConfigWidget(_TR("Multiplier"), f_Speed, 1.0f, 0.0f, 20.0f, _TR("Set GameSpeed Multiplier\n"
+                                                                        "Do NOT use this in the Open World, only use in menus/etc, VERY DANGEROUS!"));
     }
 
     bool GameSpeed::NeedStatusDraw() const
@@ -39,7 +39,7 @@ namespace cheat::feature
         ImGui::Text(_TR("Game Speed"));
     }
 
-    GameSpeed& GameSpeed::GetInstance()
+    GameSpeed &GameSpeed::GetInstance()
     {
         static GameSpeed instance;
         return instance;
@@ -51,7 +51,7 @@ namespace cheat::feature
         float currentSpeed = app::Time_get_timeScale(nullptr);
         if (f_Enabled->enabled())
         {
-			SAFE_BEGIN();
+            SAFE_BEGIN();
             if (f_Hotkey.value().IsPressed())
             {
                 if (currentSpeed == 1.0f)
@@ -69,7 +69,7 @@ namespace cheat::feature
                     isSpeed = false;
                 }
             }
-			SAFE_EEND();
+            SAFE_EEND();
         }
         else
         {
