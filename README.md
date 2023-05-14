@@ -42,9 +42,9 @@
 
 #### Player
 
-- God Mode(Invincible)
-- Attack Modifier: Multi-Hit/Target/Animation
-- No Cooldown: Skill/Ultimate/Sprint/Bow
+- God Mode (Invincible)
+- Attack Modifier: Multi-Hit / Target / Animation
+- No Cooldown: Skill / Ultimate / Sprint / Bow
 - Unlimited Stamina
 - No Clip
 
@@ -55,8 +55,8 @@
 - GameSpeed
 - Dumb Enemies
 - Freeze Enemies
-- Auto Destroy: Ores/Shields/Doodads/Plants
-- Auto Loot/Open Chests
+- Auto Destroy: Ores / Shields / Doodads / Plants
+- Auto Loot / Open Chests
 - Pickup Range
 - Auto Talk
 - Auto Tree Farm
@@ -69,7 +69,7 @@
 
 #### Teleport
 
-- Chest/Oculi Teleport (Teleports to nearest)
+- Chest / Oculi Teleport (Teleports to nearest)
 - Map Teleport (Teleport to mark on map)
 - Custom Teleport (Teleport through list)
 
@@ -85,7 +85,7 @@
 - Hide UI
 - In-game Embedded Browser
 - Enable Peeking
-- Profile Changer: UID/Nickname/AR/WorldLevel/Avatar/Namecard
+- Profile Changer: UID / Nickname / AR / WorldLevel / Avatar / Namecard
 - Custom Weather
 - Free Camera
 - Paimon Follow
@@ -105,7 +105,7 @@
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/map-teleport-demo.gif"/>
 </details>
 <details>
-  <summary>Noclip</summary>
+  <summary>No clip</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/noclip-demo.gif"/>
 </details>
 <details>
@@ -131,15 +131,15 @@ Welcome to the short explanation for bug reporting
 
 1. You found a bug.
 1. Write down what happened, as well as your first thoughts on what you think caused it.
-1. Can it be reproduced? Yes or no. If yes: Explain in as much clear as possible. i.e what happens when the bug occurs and why it occurs.
-1. Tell us which version you are using. copy the `SHA`/ Version Number of the latest commit when you built the mod. For example: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
-1. [Open an Issue(there's a template!)](https://github.com/Korepi/Korepi/issues)
+1. Can it be reproduced? Yes or no. If yes: Explain it as clearly as possible, i.e., what happens when the bug occurs and why it occurs.
+1. Tell us which version you are using. Copy the `SHA` / Version Number of the latest commit when you built the mod. For example: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
+1. [Open an Issue (there's a template!)](https://github.com/Korepi/Korepi/issues)
 
 <h2 align="center">Contributing</h2>
 
 ## Adding a feature
 
-1. Fork the Project
+1. Fork the project
 1. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 1. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 1. Push to the Branch (`git push origin feature/AmazingFeature`)
