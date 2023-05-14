@@ -2,7 +2,6 @@
 #include <cheat-base/cheat/Feature.h>
 #include <cheat-base/config/config.h>
 
-
 namespace cheat::feature
 {
 	class AutoRun : public Feature
@@ -11,17 +10,16 @@ namespace cheat::feature
 		config::Field<TranslatedHotkey> f_Enabled;
 		config::Field<float> f_Speed;
 
-		static AutoRun& GetInstance();
+		static AutoRun &GetInstance();
 
-		const FeatureGUIInfo& GetGUIInfo() const override;
+		const FeatureGUIInfo &GetGUIInfo() const override;
 		void DrawMain() override;
 
 		bool NeedStatusDraw() const override;
 		void DrawStatus() override;
 
-		void OnGameUpdate();
-
 	private:
 		AutoRun();
+		void OnGameUpdate();
 	};
 }
