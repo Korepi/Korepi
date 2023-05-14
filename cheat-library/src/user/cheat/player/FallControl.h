@@ -12,17 +12,17 @@ namespace cheat::feature
         config::Field<TranslatedHotkey> f_Enabled;
         config::Field<float> f_Speed;
 
-        static FallControl& GetInstance();
+        static FallControl &GetInstance();
 
         // Inherited via Feature
-        virtual const FeatureGUIInfo& GetGUIInfo() const override;
+        virtual const FeatureGUIInfo &GetGUIInfo() const override;
         virtual void DrawMain() override;
 
         virtual bool NeedStatusDraw() const override;
         void DrawStatus() override;
 
         void OnGameUpdate();
-        void OnMoveSync(uint32_t entityId, app::MotionInfo* syncInfo);
+        void OnMoveSync(uint32_t entityId, app::MotionInfo *syncInfo);
 
     private:
         FallControl();

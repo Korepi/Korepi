@@ -9,14 +9,14 @@ namespace cheat::feature
     bool FallControl::isFalling = false;
 
     FallControl::FallControl() : Feature(),
-        NFP(f_Enabled, "FallControl", "Fall-Control", false),
-        NF(f_Speed, "FallControl", 10.0f)
+                                 NFP(f_Enabled, "FallControl", "Fall-Control", false),
+                                 NF(f_Speed, "FallControl", 10.0f)
     {
         events::GameUpdateEvent += MY_METHOD_HANDLER(FallControl::OnGameUpdate);
         events::MoveSyncEvent += MY_METHOD_HANDLER(FallControl::OnMoveSync);
     }
 
-    const FeatureGUIInfo& cheat::feature::FallControl::GetGUIInfo() const
+    const FeatureGUIInfo &cheat::feature::FallControl::GetGUIInfo() const
     {
         TRANSLATED_GROUP_INFO("Fall-Control", "Player");
         return info;
@@ -38,7 +38,7 @@ namespace cheat::feature
         ImGui::Text("%s [%.1f]", _TR("Fall-Control"), f_Speed.value());
     }
 
-    FallControl& cheat::feature::FallControl::GetInstance()
+    FallControl &cheat::feature::FallControl::GetInstance()
     {
         static FallControl instance;
         return instance;
@@ -51,23 +51,23 @@ namespace cheat::feature
         if (!f_Enabled->enabled() || !isFalling)
             return;
 
-        auto& manager = game::EntityManager::instance();
+        auto &manager = game::EntityManager::instance();
 
         const auto avatarEntity = manager.avatar();
         auto rigidBody = avatarEntity->rigidbody();
         if (rigidBody == nullptr)
             return;
 
-        const auto cameraEntity = game::Entity(reinterpret_cast<app::BaseEntity*>(manager.mainCamera()));
+        const auto cameraEntity = game::Entity(reinterpret_cast<app::BaseEntity *>(manager.mainCamera()));
         app::Vector3 direction = {};
         if (Hotkey(ImGuiKey_W).IsPressed())
-            direction = direction + cameraEntity.forward();;
+            direction = direction + cameraEntity.forward();
         if (Hotkey(ImGuiKey_S).IsPressed())
-            direction = direction + cameraEntity.back();;
+            direction = direction + cameraEntity.back();
         if (Hotkey(ImGuiKey_D).IsPressed())
-            direction = direction + cameraEntity.right();;
+            direction = direction + cameraEntity.right();
         if (Hotkey(ImGuiKey_A).IsPressed())
-            direction = direction + cameraEntity.left();;
+            direction = direction + cameraEntity.left();
         if (IsVectorZero(direction))
             return;
         // Do not change falling velocity when camera relative
@@ -91,9 +91,9 @@ namespace cheat::feature
     }
 
     // Detects when player is falling and enables the FallControl cheat
-    void FallControl::OnMoveSync(uint32_t entityId, app::MotionInfo* syncInfo)
+    void FallControl::OnMoveSync(uint32_t entityId, app::MotionInfo *syncInfo)
     {
-        if (!f_Enabled->enabled()) 
+        if (!f_Enabled->enabled())
         {
             // Edgecase for when you turn off cheat while falling
             isFalling = false;
@@ -107,7 +107,7 @@ namespace cheat::feature
         case app::MotionState__Enum::MotionDrop:
             isFalling = true;
             return;
-            
+
             // State that doesn't tell us anything
         case app::MotionState__Enum::MotionStandby:
         case app::MotionState__Enum::MotionNotify:
