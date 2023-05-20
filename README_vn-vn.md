@@ -124,7 +124,7 @@ Những điều lưu ý trước khi báo cáo lỗi
 1. Bạn tìm thấy lỗi.
 1. Trình bày rõ ràng điều gì đã xảy ra, và bạn nghĩ do vấn đề nào gây ra.
 1. Có thể thực hiện lại lỗi không? Có hoặc không. Nếu có: Hãy trình bày cách thực hiện rõ nhất có thể. Ví dụ: điều gì đã xảy ra khi gặp lỗi và tại sao. 
-1. Hãy cho chúng tôi biết phiên bản Akebi bạn sử dụng. Sử dụng mã `SHA`/ Số phiên bản của commit gần nhất phiên bản mà bạn sử dụng. Ví dụ: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
+1. Hãy cho chúng tôi biết phiên bản Korepi bạn sử dụng. Sử dụng mã `SHA`/ Số phiên bản của commit gần nhất phiên bản mà bạn sử dụng. Ví dụ: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
 1. [Báo cáo lỗi](https://github.com/Korepi/Korepi/issues)
 
 <h1 align="center">Đóng Góp Cho Dự Án</h1>
