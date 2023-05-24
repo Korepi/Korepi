@@ -17,7 +17,7 @@
 <h1 align="center">Bắt Đầu</h1>
 
 ## Hướng dẫn tải xuống
-1. Truy cập vào mục [Releases page](https://github.com/Korepi/Korepi/releases)
+1. Truy cập vào [Releases page](https://github.com/Korepi/Korepi/releases)
 2. Tải về file chạy mới nhất
 
 ### Hướng dẫn sử dụng
@@ -139,7 +139,7 @@ Những điều lưu ý trước khi báo cáo lỗi:
 
 ## Góp ý
 
-(VUI LÒNG SỬ DỤNG TIẾNG ANH!)
+(VUI LÒNG SỬ DỤNG TIẾNG ANH KHI ĐÓNG GÓP!)
 
 Để đóng góp ý tưởng cho dự án hãy tạo một [issue](https://github.com/Korepi/Korepi/issues) với tiêu đề là ý tưởng bạn muốn.
 Hãy **giải thích rõ ràng nhất** để những người phát triển dự án có thể hiểu ý tưởng của bạn.
