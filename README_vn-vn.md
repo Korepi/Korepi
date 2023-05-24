@@ -17,7 +17,7 @@
 <h1 align="center">Bắt Đầu</h1>
 
 ## Hướng dẫn tải xuống
-1. Truy cập vào mục [releases page](https://github.com/Korepi/Korepi/releases)
+1. Truy cập vào mục [Releases page](https://github.com/Korepi/Korepi/releases)
 2. Tải về file chạy mới nhất
 
 ### Hướng dẫn sử dụng
@@ -63,7 +63,7 @@
 #### Dịch chuyển
 - Rương/Thần đồng (Dịch chuyển đến nơi gần nhất)
 - Dịch chuyển tức thời (Dịch chuyển đến đánh dấu trên bản đồ thế giới)
-- Dịch chuyển tùy chỉnh (Dịch chuyển theo danh sách)
+- Dịch chuyển tùy chỉnh (Dịch chuyển theo danh sách cho sẵn)
 
  #### Hình ảnh 
 - ESP (Nhìn xuyên tường vị trí của item,...)
