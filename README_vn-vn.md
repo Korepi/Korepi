@@ -65,7 +65,7 @@
 - Dịch chuyển tức thời (Dịch chuyển đến đánh dấu trên bản đồ thế giới)
 - Dịch chuyển tùy chỉnh (Dịch chuyển theo danh sách)
 
- vaa #### Hình ảnh 
+ #### Hình ảnh 
 - ESP (Nhìn xuyên tường vị trí của item,...)
 - Bản đồ tương tác tích hợp
 - Trạng thái góc nhìn nguyên tố vĩnh viễn
