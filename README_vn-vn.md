@@ -84,7 +84,7 @@
 
 #### Gỡ lỗi
 - Quán lí Entities
-- Theo dỗi vị trí
+- Theo dõi vị trí
 - Biểu đồ FPS
 - [Packet Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
