@@ -20,7 +20,7 @@
 1. Truy cập vào [Releases page](https://github.com/Korepi/Korepi/releases)
 2. Tải về file chạy mới nhất
 
-### Hướng dẫn sử dụng
+### Hướng dẫn chạy file
 1. Hãy chắc chắn rằng file `HoYoKProtect.dll` ở trong cùng folder với file `injector.exe`.
 2. Chạy `injector.exe`.
 3. Chọn `GenshinImpact.exe` hoặc `YuanShen.exe`.
@@ -30,7 +30,7 @@
 <h1 align="center">Tính Năng</h1>
 
 #### Cơ bản
-- Vượt qua trình ngăn chặn can thiệp của game
+- Vượt trình ngăn chặn can thiệp của game
 - Giao diện trong game
 - Phím tắt
 - Thông báo
