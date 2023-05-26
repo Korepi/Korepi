@@ -33,7 +33,7 @@
 - Vượt trình ngăn chặn can thiệp của game
 - Giao diện trong game
 - Phím tắt
-- Thông báo
+- Thông báo tính năng
 
 #### Người chơi
 - Bất tử
