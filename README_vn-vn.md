@@ -17,7 +17,7 @@
 <h1 align="center">Bắt Đầu</h1>
 
 ## Hướng dẫn tải xuống
-1. Truy cập vào [Releases page](https://github.com/Korepi/Korepi/releases)
+1. Truy cập vào [Releases](https://github.com/Korepi/Korepi/releases)
 2. Tải về file chạy mới nhất
 
 ### Hướng dẫn chạy file
@@ -25,7 +25,7 @@
 2. Chạy `injector.exe`.
 3. Chọn `GenshinImpact.exe` hoặc `YuanShen.exe`.
 4. Game sẽ tự động mở, đợi giao diện của Korepi hiện ra.
-5. Sau khi đăng nhập vào game, bấm F1 để hiển thị giao diện của Korepi.
+5. Sau khi đăng nhập vào game, bấm Insert để hiển thị giao diện của Korepi.
 
 <h1 align="center">Tính Năng</h1>
 
@@ -38,7 +38,7 @@
 #### Người chơi
 - Bất tử
 - Tăng sức tấn công: Đa mục tiêu/Mục tiêu cố định/Hoạt ảnh tấn công
-- Không thời gian hồi: Chiêu E/Nộ/Chạy/Ngắm bắn
+- Không thời gian hồi: Chiêu E/Q/Chạy/Ngắm bắn
 - Thể lực vô hạn
 - Bay tự do xuyên tường
 
@@ -141,5 +141,5 @@ Những điều lưu ý trước khi báo cáo lỗi:
 
 (VUI LÒNG SỬ DỤNG TIẾNG ANH KHI ĐÓNG GÓP!)
 
-Để đóng góp ý tưởng cho dự án hãy tạo một [issue](https://github.com/Korepi/Korepi/issues) với tiêu đề là ý tưởng bạn muốn.
+Để đóng góp ý tưởng cho dự án hãy tạo một [Issue](https://github.com/Korepi/Korepi/issues) với tiêu đề là ý tưởng bạn muốn.
 Hãy **giải thích rõ ràng nhất** để những người phát triển dự án có thể hiểu ý tưởng của bạn.
