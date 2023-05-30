@@ -14,23 +14,23 @@
 
 ---
 
-<h1 align="center">Hướng Dẫn Bắt Đầu</h1>
+<h1 align="center">Bắt Đầu</h1>
 
 ## Hướng dẫn tải xuống
-1. Truy cập vào mục [releases page](https://github.com/Korepi/Korepi/releases)
+1. Truy cập vào [Releases](https://github.com/Korepi/Korepi/releases)
 2. Tải về file chạy mới nhất
 
-### Cài đặt
+### Hướng dẫn chạy file
 1. Hãy chắc chắn rằng file `HoYoKProtect.dll` ở trong cùng folder với file `injector.exe`.
 2. Chạy `injector.exe`.
 3. Chọn `GenshinImpact.exe` hoặc `YuanShen.exe`.
-4. Trò chơi sẽ tự động mở, đợi giao diện hiện ra.
-5. Sau khi đăng nhập vào game, bấm INSERT để hiển thị giao diện Korepi.
+4. Game sẽ tự động mở, đợi giao diện của Korepi hiện ra.
+5. Sau khi đăng nhập vào game, bấm Insert để hiển thị giao diện của Korepi.
 
-<h1 align="center">Features</h1>
+<h1 align="center">Tính Năng</h1>
 
 #### Cơ bản
-- Vượt chống can thiệp game
+- Vượt trình ngăn chặn can thiệp của game
 - Giao diện trong game
 - Phím tắt
 - Thông báo tính năng
@@ -38,20 +38,20 @@
 #### Người chơi
 - Bất tử
 - Tăng sức tấn công: Đa mục tiêu/Mục tiêu cố định/Hoạt ảnh tấn công
-- Không thời gian hồi: Chiêu E/Ulti/Chạy/Ngắm bắn
+- Không thời gian hồi: Chiêu E/Q/Chạy/Ngắm bắn
 - Thể lực vô hạn
 - Bay tự do xuyên tường
 
 #### Thế giới
-- Seelie tự động bay
-- Thiết lập đội ngay lập tức
+- Tinh linh (Seelie) tự động bay đến đích
+- Mở thiết lập đội ngay lập tức
 - Tốc độ game
 - Quái không tấn công
 - Đóng băng quái
-- Tự động phá: Mỏ quặng/Giáp quái/Các vật dụng/Cây cối
+- Tự động phá: Quặng/Giáp của quái/Các vật dụng/Cây cối
 - Tự động nhặt/Mở rương
-- Nhặt đồ xa
-- Hội thoại tự động
+- Nhặt các đồ vật ở xa
+- Tự động hội thoại
 - Tự động chặt gỗ
 - Tự động nấu ăn
 - Giả thời gian
@@ -61,16 +61,16 @@
 - Hút item
 
 #### Dịch chuyển
-- Hòm/Thần đồng (Dịch chuyển đến nơi gần nhất)
+- Rương/Thần đồng (Dịch chuyển đến nơi gần nhất)
 - Dịch chuyển tức thời (Dịch chuyển đến đánh dấu trên bản đồ thế giới)
-- Dịch chuyển tùy biến (Dịch chuyển theo danh sách)
+- Dịch chuyển tùy chỉnh (Dịch chuyển theo danh sách cho sẵn)
 
-#### Hình ảnh 
+ #### Hình ảnh 
 - ESP (Nhìn xuyên tường vị trí của item,...)
 - Bản đồ tương tác tích hợp
-- Góc nhìn nguyên tố vô hạn
-- Tắt sương mù
-- Mở khóa FPS
+- Trạng thái góc nhìn nguyên tố vĩnh viễn
+- Tắt,xóa sương mù
+- Mở khóa giới hạn FPS
 - Thay đổi độ rộng góc nhìn
 - Thông báo rương
 - Ẩn giao diện
@@ -84,7 +84,7 @@
 
 #### Gỡ lỗi
 - Quán lí Entities
-- Theo dỗi vị trí
+- Theo dõi vị trí
 - Biểu đồ FPS
 - [Packet Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
@@ -111,17 +111,17 @@
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/rapid-fire-demo.gif"/>
 </details>
 <details>
-  <summary>Hội thoại tự động</summary>
+  <summary>Tự động hội thoại</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
 </details>
 
 <h1 align="center">Báo Cáo Lỗi</h1>
 
-(VUI LÒNG SỬ DỤNG TIẾNG ANH!)
+(VUI LÒNG SỬ DỤNG TIẾNG ANH KHI BÁO CÁO!)
 
-Những điều lưu ý trước khi báo cáo lỗi
+Những điều lưu ý trước khi báo cáo lỗi:
 
-1. Bạn tìm thấy lỗi.
+1. Bạn tìm thấy được lỗi.
 1. Trình bày rõ ràng điều gì đã xảy ra, và bạn nghĩ do vấn đề nào gây ra.
 1. Có thể thực hiện lại lỗi không? Có hoặc không. Nếu có: Hãy trình bày cách thực hiện rõ nhất có thể. Ví dụ: điều gì đã xảy ra khi gặp lỗi và tại sao. 
 1. Hãy cho chúng tôi biết phiên bản Korepi bạn sử dụng. Sử dụng mã `SHA`/ Số phiên bản của commit gần nhất phiên bản mà bạn sử dụng. Ví dụ: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
@@ -139,7 +139,7 @@ Những điều lưu ý trước khi báo cáo lỗi
 
 ## Góp ý
 
-(VUI LÒNG SỬ DỤNG TIẾNG ANH!)
+(VUI LÒNG SỬ DỤNG TIẾNG ANH KHI ĐÓNG GÓP!)
 
-Để đóng góp ý tưởng cho dự án hãy tạo một [issue](https://github.com/Korepi/Korepi/issues) với tiêu đề là ý tưởng bạn muốn.
+Để đóng góp ý tưởng cho dự án hãy tạo một [Issue](https://github.com/Korepi/Korepi/issues) với tiêu đề là ý tưởng bạn muốn.
 Hãy **giải thích rõ ràng nhất** để những người phát triển dự án có thể hiểu ý tưởng của bạn.
