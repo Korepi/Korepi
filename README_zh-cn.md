@@ -25,7 +25,7 @@
 2. 运行 injector.exe.
 3. 选择 Yuanshen.exe 或者 GenshinImpact.exe
 4. 游戏将自动启动，等待界面出现。
-5. 按下 TILDE 键以打开Korepi的GUI菜单
+5. 按下 TAB 键以打开Korepi的GUI菜单
 <p align="center">
 <a href="#"><img width="293" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 </p>
