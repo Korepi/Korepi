@@ -28,7 +28,10 @@ To contribute, contact any staff in discord server
 2. Run `injector.exe`.
 3. Select `GenshinImpact.exe` or `YuanShen.exe`.
 4. Game will be launched automatically, wait for interface to appear.
-5. Press INSERT to open Korepi GUI.
+5. Press TILDE to open Korepi GUI.
+<p align="center">
+<a href="#"><img width="154" height="175" src="https://media.discordapp.net/attachments/1105147143464943618/1113309158024941678/image.png"></a>
+</p>
 
 <h1 align="center">Features</h1>
 
