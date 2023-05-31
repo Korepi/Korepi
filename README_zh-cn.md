@@ -21,7 +21,7 @@
 2. 下载最新的版本
 
 ### 使用方法
-1. 确认 CLibrary.dll 跟 injector.exe 处在同一个文件夹内。
+1. 确认 HoYoKProtect.dll 跟 injector.exe 处在同一个文件夹内。
 2. 运行 injector.exe.
 3. 选择 Yuanshen.exe 或者 GenshinImpact.exe
 4. 游戏将自动启动，等待界面出现。
