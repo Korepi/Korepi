@@ -25,7 +25,10 @@
 2. Chạy `injector.exe`.
 3. Chọn `GenshinImpact.exe` hoặc `YuanShen.exe`.
 4. Game sẽ tự động mở, đợi giao diện của Korepi hiện ra.
-5. Sau khi đăng nhập vào game, bấm Insert để hiển thị giao diện của Korepi.
+5. Sau khi đăng nhập vào game, bấm TILDE để hiển thị giao diện của Korepi.
+<p align="center">
+<a href="#"><img width="154" height="175" src="https://media.discordapp.net/attachments/1105147143464943618/1113309158024941678/image.png"></a>
+</p>
 
 <h1 align="center">Tính Năng</h1>
 
