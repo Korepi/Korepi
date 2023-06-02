@@ -28,9 +28,9 @@
 2. Запустите `injector.exe`.
 3. Выберите `GenshinImpact.exe` или `YuanShen.exe`.
 4. Игра запустится автоматически, дождитесь появления интерфейса.
-5. Нажмите TILDE, чтобы открыть графический интерфейс Korepi.
+5. Нажмите TAB, чтобы открыть графический интерфейс Korepi.
 <p align="center">
-<a href="#"><img width="154" height="175" src="https://media.discordapp.net/attachments/1105147143464943618/1113309158024941678/image.png"></a>
+<a href="#"><img width="293" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 </p>
 
 <h1 align="center">Возможности</h1>
