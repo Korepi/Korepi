@@ -10,7 +10,7 @@
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md) [VI](README_vn-vn.md) [简中](README_zh-cn.md) [RU](README_ru-ru.md)
+[EN](README.md) [VI](README_vi-vn.md) [简中](README_zh-cn.md) [RU](README_ru-ru.md)
 
 Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo)
 
