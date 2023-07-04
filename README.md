@@ -9,12 +9,18 @@
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md) [VI](README_vi-vn.md) [简中](README_zh-cn.md) [RU](README_ru-ru.md)
+<table>
+  <tr>
+    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
+    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
+    <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</td>
+  </tr>
+</table>
 
-Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo)
-
+Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
 To contribute, contact any staff in discord server
----
+
 
 <h1 align="center">Getting Started</h1>
 
