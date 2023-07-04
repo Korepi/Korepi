@@ -18,6 +18,7 @@
   </tr>
 </table>
 
+	    
 Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
 To contribute, contact any staff in discord server
 
