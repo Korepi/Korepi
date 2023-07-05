@@ -1,36 +1,49 @@
 <p align="center">
-  <a href="#"><img width="500" height="500" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
-  <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="360" height="360" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
+  <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/Korepi/Korepi/releases/latest"><img src="https://img.shields.io/github/v/release/Korepi/Korepi?style=for-the-badge"></a>
-	<a href="https://github.com/Korepi/Korepi/releases"><img src="https://img.shields.io/github/downloads/Korepi/Korepi/total.svg?style=for-the-badge"></a>
+	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=red"></a>
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md) [VI](README_vi-vn.md) [简中](README_zh-cn.md) [RU](README_ru-ru.md)
+<table>
+  <tr>
+    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
+    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
+    <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</td>
+  </tr>
+</table>
 
 ---
 
-<h1 align="center">入门教程</h1>
+## ✨ 最新注释
+- 项目搬移到 [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
+- 如需贡献，请联系我们的discord服务器中的任何工作人员.
 
-## 发行版本
-1. 前往[Releases页面](https://github.com/Korepi/Korepi/releases)
+---
+
+## ❓ 入门
+
+### 发布
+1. 前往 [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
 2. 下载最新的版本
 
 ### 使用方法
-1. 确认 HoYoKProtect.dll 跟 injector.exe 处在同一个文件夹内。
+1. 确认 HoYoKProtect.dll 跟 injector.exe 处在同一个文件夹内.
 2. 运行 injector.exe.
 3. 选择 Yuanshen.exe 或者 GenshinImpact.exe
 4. 游戏将自动启动，等待界面出现。
-5. 按下 TAB 键以打开Korepi的GUI菜单
+5. 按下 TAB 键以打开 [Korepi](https://github.com/Korepi/Korepi) 的GUI菜单.
 <p align="center">
-<a href="#"><img width="293" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 </p>
 
-<h1 align="center">功能简介</h1>
+---
+## 🎨 Features
 
 #### 通用
 - 过检测
@@ -91,7 +104,8 @@
 - FPS曲线图
 - [抓包工具](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
-<h1 align="center">功能演示</h1>
+---
+## 🎣 演示
 
 <details>
   <summary>地图传送</summary>
@@ -118,29 +132,11 @@
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
 </details>
 
-<h1 align="center">Bugs</h1>
+---
+## ⚠ 免责声明
+- 使用风险自负.
+- **请勿使用某些第三方软件传播您的信息**, 你会很好。 你已被警告.
 
-欢迎阅读如何提交`BUG`报告
-
-1. 发现了一个`bug`。
-2. 记下问题出现时发生了什么，以及你认为这是由于什么造成的。
-3. 可以复现吗？可以或不可以。如果可以：尽可能的描述清楚问题发生时，发生了什么，开启了什么功能以及最可能的原因是什么。 ~~如果不可以：**就别报告了，建议重启**。~~
-4. 告诉我们你使用的是哪一个版本。复制你编译的最新的提交的`SHA`或者版本号。例如：`bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
-5. [使用英文打开一个Issue(有提供模板!)](https://github.com/Korepi/Korepi/issues)
-
-<h1 align="center">Contributing</h1>
-
-
-<h1 align="center">提交贡献</h1>
-
-## 增加一个功能
-1. Fork本项目
-1. 创建一个新的功能分支（`git checkout -b feature/AmazingFeature`）
-1. 提交更改（`git commit -m 'Add some AmazingFeature'`）
-1. 推送（Push）更改到分支（`git push origin feature/AmazingFeature`）
-2. [打开 Pull Request 并提交](https://github.com/Korepi/Korepi/pulls)
-
-## 建议
-
-用英文新建一个[Issue](https://github.com/Korepi/Korepi/issues)。
-标题写上你的建议，并且在描述里面，**清晰的**写下你的建议描述，以便我们的开发人员可以理解你的建议。
+---
+## ⚙ Bug 报告
+- 只需提出问题并向我们提供有关您的问题的详细信息，我们会考虑审查并修复它们.
