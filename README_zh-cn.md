@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge"></a>
-	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=red"></a>
-	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
+	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
+	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <table>
   <tr>
-    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
-    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
+    <td valign="center"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
     <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</td>
   </tr>
 </table>
@@ -33,32 +33,32 @@
 2. 下载最新的版本
 
 ### 使用方法
-1. 确认 HoYoKProtect.dll 跟 injector.exe 处在同一个文件夹内.
-2. 运行 injector.exe.
-3. 选择 Yuanshen.exe 或者 GenshinImpact.exe
+1. 确认 `HoYoKProtect.dll` 跟 `injector.exe` 处在同一个文件夹内.
+2. 运行 `injector.exe`.
+3. 选择 `Yuanshen.exe` 或者 `GenshinImpact.exe`
 4. 游戏将自动启动，等待界面出现。
-5. 按下 TAB 键以打开 [Korepi](https://github.com/Korepi/Korepi) 的GUI菜单.
+5. 按下 `TAB` 键以打开 [Korepi](https://github.com/Korepi/Korepi) 的GUI菜单.
 <p align="center">
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 </p>
 
 ---
-## 🎨 Features
+## 🎨 特征
 
-#### 通用
+### 通用
 - 过检测
 - 游戏内界面
 - 快捷键
 - 通知
 
-#### 玩家
+### 玩家
 - 上帝模式（无敌）
 - 攻击模式修改: 多次攻击/多目标/多动画
 - 无冷却: 技能/大招/冲刺/弓箭蓄力
 - 无限体力
 - 自由飞行模式
 
-#### 大世界
+### 大世界
 - 仙灵自动归位
 - 立即打开队伍
 - 游戏全局加速
@@ -76,12 +76,12 @@
 - 吸怪
 - 吸物
 
-#### 传送
+### 传送
 - 宝箱/神瞳传送（传送到最近的）
 - 地图传送（大地图标点传送）
 - 自定义传送（通过自定义列表传送）
 
-#### 视觉效果
+### 视觉效果
 - 透视
 - 互动地图
 - 元素视野常驻
@@ -98,7 +98,7 @@
 - 派蒙不消失
 - 材质模型替换
 
-#### 调试
+### 调试
 - 实体管理器
 - 位置信息
 - FPS曲线图
