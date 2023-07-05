@@ -1,51 +1,64 @@
 <p align="center">
-  <a href="#"><img width="500" height="500" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>	
-  <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="360" height="360" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
+  <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/Korepi/Korepi/releases/latest"><img src="https://img.shields.io/github/v/release/Korepi/Korepi?style=for-the-badge"></a>
-	<a href="https://github.com/Korepi/Korepi/releases"><img src="https://img.shields.io/github/downloads/Korepi/Korepi/total.svg?style=for-the-badge"></a>
-	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=red"></a>
-	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
+	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
+	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
-[EN](README.md) [VI](README_vi-vn.md) [简中](README_zh-cn.md) [RU](README_ru-ru.md)
+<table>
+  <tr>
+    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
+    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
+    <td valign="center"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</td>
+  </tr>
+</table>
 
 ---
 
-<h1 align="center">Bắt Đầu</h1>
+## ✨ Thông tin mới nhất
+- Project đã được di chuyển đến [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
+- Để thực hiện đóng góp, vui lòng liên hệ đến các staff của Discord Korepi.
 
-## Hướng dẫn tải xuống
-1. Truy cập vào [Releases](https://github.com/Korepi/Korepi/releases)
-2. Tải về file chạy mới nhất
+---
+
+## ❓ Bắt Đầu
+
+### Hướng dẫn tải xuống
+1. Truy cập vào [releases page](https://github.com/Korepi/keyauth-cpp-library/releases).
+2. Tải về file chạy mới nhất.
 
 ### Hướng dẫn chạy file
 1. Hãy chắc chắn rằng file `HoYoKProtect.dll` ở trong cùng folder với file `injector.exe`.
 2. Chạy `injector.exe`.
 3. Chọn `GenshinImpact.exe` hoặc `YuanShen.exe`.
-4. Game sẽ tự động mở, đợi giao diện của Korepi hiện ra.
-5. Sau khi đăng nhập vào game, bấm nút TAB để hiển thị giao diện của Korepi.
+4. Game sẽ tự động mở, đợi giao diện của [Korepi](https://github.com/Korepi/Korepi) hiện ra.
+5. Sau khi đăng nhập vào game, bấm nút `TAB` để hiển thị giao diện của [Korepi](https://github.com/Korepi/Korepi).
 <p align="center">
 <a href="#"><img width="293" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 </p>
 
-<h1 align="center">Tính Năng</h1>
+---
+## 🎨 Tính Năng
 
-#### Cơ bản
+### Cơ bản
 - Vượt trình ngăn chặn can thiệp của game
 - Giao diện trong game
 - Phím tắt
 - Thông báo tính năng
 
-#### Người chơi
+### Người chơi
 - Bất tử
 - Tăng sức tấn công: Đa mục tiêu/Mục tiêu cố định/Hoạt ảnh tấn công
 - Không thời gian hồi: Chiêu E/Q/Chạy/Ngắm bắn
 - Thể lực vô hạn
 - Bay tự do xuyên tường
 
-#### Thế giới
+### Thế giới
 - Tinh linh (Seelie) tự động bay đến đích
 - Mở thiết lập đội ngay lập tức
 - Tốc độ game
@@ -63,12 +76,12 @@
 - Hút quái
 - Hút item
 
-#### Dịch chuyển
+### Dịch chuyển
 - Rương/Thần đồng (Dịch chuyển đến nơi gần nhất)
 - Dịch chuyển tức thời (Dịch chuyển đến đánh dấu trên bản đồ thế giới)
 - Dịch chuyển tùy chỉnh (Dịch chuyển theo danh sách cho sẵn)
 
- #### Hình ảnh 
+### Trợ năng
 - ESP (Nhìn xuyên tường vị trí của item,...)
 - Bản đồ tương tác tích hợp
 - Trạng thái góc nhìn nguyên tố vĩnh viễn
@@ -85,13 +98,14 @@
 - Paimon đi theo
 - Thay đổi Texture
 
-#### Gỡ lỗi
-- Quán lí Entities
-- Theo dõi vị trí
-- Biểu đồ FPS
+### Gỡ lỗi
+- Entities Manager
+- Position Info
+- FPS Graph
 - [Packet Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
-<h1 align="center">Giới Thiệu</h1>
+---
+## 🎣 Xem Trước
 
 <details>
   <summary>Dịch chuyển tức thời</summary>
@@ -118,31 +132,13 @@
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
 </details>
 
-<h1 align="center">Báo Cáo Lỗi</h1>
+---
+## ⚠ Miễn Trừ Trách Nhiệm
+- Bạn phải tự chịu rủi ro khi sử dụng.
+- **Không được nói cho người khác biết về việc bạn sử dụng phần mềm thứ 3**. Bạn đã được cảnh cáo trước.
 
-(VUI LÒNG SỬ DỤNG TIẾNG ANH KHI BÁO CÁO!)
+---
+## ⚙ Báo cáo lỗi
 
-Những điều lưu ý trước khi báo cáo lỗi:
-
-1. Bạn tìm thấy được lỗi.
-1. Trình bày rõ ràng điều gì đã xảy ra, và bạn nghĩ do vấn đề nào gây ra.
-1. Có thể thực hiện lại lỗi không? Có hoặc không. Nếu có: Hãy trình bày cách thực hiện rõ nhất có thể. Ví dụ: điều gì đã xảy ra khi gặp lỗi và tại sao. 
-1. Hãy cho chúng tôi biết phiên bản Korepi bạn sử dụng. Sử dụng mã `SHA`/ Số phiên bản của commit gần nhất phiên bản mà bạn sử dụng. Ví dụ: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
-1. [Báo cáo lỗi](https://github.com/Korepi/Korepi/issues)
-
-<h1 align="center">Đóng Góp Cho Dự Án</h1>
-
-
-## Thêm tính năng
-1. Fork dự án
-1. Tạo Branch với tính năng của bạn (`git checkout -b feature/AmazingFeature`)
-1. Commit thay đổi của bạn (`git commit -m 'Add some AmazingFeature'`)
-1. Push lên Branch (`git push origin feature/AmazingFeature`)
-2. [Tạo Pull Request](https://github.com/Korepi/Korepi/pulls)
-
-## Góp ý
-
-(VUI LÒNG SỬ DỤNG TIẾNG ANH KHI ĐÓNG GÓP!)
-
-Để đóng góp ý tưởng cho dự án hãy tạo một [Issue](https://github.com/Korepi/Korepi/issues) với tiêu đề là ý tưởng bạn muốn.
-Hãy **giải thích rõ ràng nhất** để những người phát triển dự án có thể hiểu ý tưởng của bạn.
+ **VUI LÒNG VIẾT BẰNG TIẾNG ANH**
+- Chỉ cần mở mục `Issue` trên github và viết rõ lỗi của bạn gặp phải, chúng tôi sẽ xem xét và đưa ra giải pháp sớm nhất.
