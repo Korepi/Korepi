@@ -9,6 +9,7 @@
 	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
+<div align="center">
 <table>
   <tr>
     <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
@@ -19,6 +20,7 @@
     
   </tr>
 </table>
+</div>
 
 ---
 
