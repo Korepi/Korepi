@@ -22,7 +22,7 @@
 
 ## ✨ 最新注释
 - 项目搬移到 [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
-- 如需贡献，请联系我们的discord服务器中的任何工作人员.
+- 如需贡献，请联系我们discord服务器中的任何工作人员.
 
 ---
 
