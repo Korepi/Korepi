@@ -38,9 +38,9 @@
 3. Select `GenshinImpact.exe` or `YuanShen.exe`.
 4. Game will be launched automatically, wait for interface to appear.
 5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
-<p align="center">
+
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
-</p>
+
 
 ---
 ## 🎨 Features
