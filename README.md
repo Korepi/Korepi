@@ -31,19 +31,7 @@
 
 ## ❓ Getting Started
 
-### Release
-1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Download the latest binaries
-
-### Usage
-1. Ensure that `HoYoKProtect.dll` is in the same folder that `injector.exe`.
-2. Run `injector.exe`.
-3. Select `GenshinImpact.exe` or `YuanShen.exe`.
-4. Game will be launched automatically, wait for interface to appear.
-5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
-
-<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
-
+- Head to our main Tutorial [here](https://github.com/Korepi/Korepi-Tutorial)
 
 ---
 ## 🎨 Features
