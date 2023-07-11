@@ -124,7 +124,7 @@
 
 ---
 ## ⚠ Disclaimer
-- Use as your own risk.
+- Use at your own risk.
 - **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
 
 ---
