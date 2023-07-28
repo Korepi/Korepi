@@ -131,3 +131,5 @@
 ---
 ## ⚙ Reportar bugs
 - Basta abrir um ticket e fornecer-nos detalhes sobre o seu problema, e iremos analisar e corrigi-los.
+
+<!-- Traduzido por: Sabala (sabala) -->
