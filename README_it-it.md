@@ -13,95 +13,95 @@
 <table>
   <tr>
     <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
-    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</a></td>
+    <td valign="center"><a href="README_de-de.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</a></td>
     <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</a></td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
     <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
     <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</a></td>
-    <td valign="center"><a href="README_it-it.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ee-1f1f9.svg" width="16"/> Italy</a></td>
+    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ee-1f1f9.svg" width="16"/> Italy</a></td>
   </tr>
 </table>
 </div>
 
 ---
 
-## ✨ Letzte Anmerkungen
-- Projekt verschoben nach [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
-- Um etwas beizutragen, wendet euch an einen Mitarbeiter auf unserem Discord Server.
+## ✨ Ultime Note
+- Progetto spostato su [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
+- Per contribuire, contatta lo staff nel nostro discord server.
 
 ---
 
-## ❓ Erste Schritte
+## ❓ Per Iniziare
 
-- Zu unserem Haupt Tutorial [hier](https://github.com/Korepi/Korepi-Tutorial)
+- Vai sul nostro Tutorial principale [qui](https://github.com/Korepi/Korepi-Tutorial)
 
 ---
-## 🎨 Funktionen
+## 🎨 Funzioni
 
-### Allgemein
-- Schutz Umgehung
-- In-Game GUI
-- Tastenkombinationen
-- Benachrichtigungen
-### Spieler
-- God Mode(Unsterblichkeit)
-- Angriff Modifizierer: Multi-Hit/Anvisieren/Animation
-- Keine Abklingzeiten: Skill/Ultimate/Sprint/Bogen
-- Unbegrenzte Ausdauer
+### Generale
+- Protezione del Bypass
+- In-Gioco GUI
+- Scorciatoie dei tasti
+- Notifiche
+### Giocatore
+- God Mode(Invincibile)
+- Modificatore d'attacco: Colpo Multiplo/Obbiettivo/Animazione
+- No Cooldown: Skill/Ultimate/Scatto/Arco
+- Stamina Infinita
 - No Clip
 
-### Welt
+### Mondo
 - Auto Seelie
-- Team sofort öffnen
-- Spielgeschwindigkeit
-- Gegner manipulieren
-- Gegner einfrieren
-- Auto Zerstören: Erze/Schilde/Dingsbums/Pflanzen
-- Auto Beute/Kisten öffnen
-- Aufhebreichweite
-- Auto Sprechen
-- Auto Bäume fällen
-- Auto Kochen
-- Zeit fälschen
-- Auto Fischen
+- Apri la Squadra Immediatamente
+- Velocità di Gioco
+- Nemici Stupidi
+- Congela i Nemici
+- Auto Distruggi: Minerali/Scudi/Discorsi/Piante
+- Auto saccheggia / Apri forzieri
+- Raggio di Raccolta
+- Parlata Automatica
+- Raccolta Alberi Automatica
+- Pescata Automatici
+- Tempo Finto
+- Pesca in Automatico
 - Kill Aura
-- Mob Sauger
-- Loot Sauger
+- Aspirapolvere di Nemici
+- Aspirapolvere di Tesori
 
-### Teleportieren
-- Truhen/Oculi Teleport (Teleportiert zum nächstgelegenen)
-- Karten Teleport (Teleportiert zur Markierung auf der Karte)
-- Benutzerdefinierter Teleport (Teleportierung über Liste)
+### Teletrasporto
+- Teletrasporto Tesori/Oculi (Teletrasporta al più vicino)
+- Teletrasporto nella Mappa (Teletrasporta in un punto segnato nella mappa)
+- Teletrasporto personalizzato (Teletrasporto tramite lista)
 
-### Visuelles
+### Visual
 - ESP
-- Interaktive Karte
-- Elementarer Blick
-- Kein Nebel
-- FPS Unlocken
-- Kamera Zoom
-- Truhen Indikator
-- Verstecke UI
-- Eingebetteter Browser im Spiel
-- Peeking einschalten
-- Profil Modifizierer: UID/Spitzname/AR/WeltLevel/Avatar/Namenskarte
-- Wetter Modifizierer
-- Freie Kamera
-- Paimon folgt dir
-- Textur Modifizierer
+- Mappa Interattiva
+- Vista Elementale
+- Niente Nebbia
+- Sblocco FPS
+- Camera Zoom
+- Indicatore Forzieri
+- Nascondi UI
+- Browser Nel Gioco
+- Abilita Sbirciatina
+- Modifica Profilo: UID/Nickname/AR/LivelloMondo/Avatar/Namecard
+- Tempo Personalizzato
+- Camera Libera
+- Paimon che ti segue
+- Modificatore di Texture
 
-### Fehlersuche
-- Entitäten Manager
-- Informationen zur Position
-- FPS-Diagramm
-- [Paket Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
+### Debugging
+- Manager di Entità
+- Informazioni di posizione
+- Grafico FPS
+- [Sniffer di Pacchetti](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
 ---
 ## 🎣 Demo
 
 <details>
-  <summary>Karten Teleportation</summary>
+  <summary>Teletrasporto nella Mappa</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/map-teleport-demo.gif"/>
 </details>
 <details>
@@ -109,27 +109,27 @@
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/noclip-demo.gif"/>
 </details>
 <details>
-  <summary>TP zum Oculi</summary>
+  <summary>Teletrasporto agli Oculi</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/oculi-teleport-demo.gif"/>
 </details>
 <details>
-  <summary>TP zu Truhen</summary>
+  <summary>Teletrasporto ai Forzieri</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/chest-teleport-demo.gif"/>
 </details>
 <details>
-  <summary>Schnellfeuer</summary>
+  <summary>Fuoco Rapido</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/rapid-fire-demo.gif"/>
 </details>
 <details>
-  <summary>Auto Sprechen</summary>
+  <summary>Parlata Automaticak</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
 </details>
 
 ---
-## ⚠ Haftungsausschluss
-- Die Verwendung erfolgt auf eigene Gefahr.
-- **Verbreiten Sie keine Informationen darüber, wie Sie Software von Dritten verwenden**, damit Sie keine Probleme bekommen. Sie wurden gewarnt.
+## ⚠ Disclaimer
+- Usalo a tuo rischio.
+- **Non rilasciare informazioni di te che usi programmi di terze parti**, e dovresti andare tranquillo. Sei stato avvisato.
 
 ---
-## ⚙ Fehler melden
-- Eröffnen Sie einfach ein Problem und geben Sie uns Details zu Ihrem Problem, und wir werden es prüfen und beheben.
+## ⚙ Segnala i Bug
+- Apri un problema e descrivici i dettagli del tuo problema, e noi considereremo di rivederli e risolverili.
