@@ -20,6 +20,7 @@
     <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
     <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</a></td>
     <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ee-1f1f9.svg" width="16"/> Italy</a></td>
+    <td valign="center"><a href="README_ko-kr.md"><img src="https://em-content.zobj.net/source/twitter/53/flag-for-south-korea_1f1f0-1f1f7.png" width="16"/> 한국어</td>
   </tr>
 </table>
 </div>
