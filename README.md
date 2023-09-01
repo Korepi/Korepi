@@ -36,6 +36,7 @@
 ## ✨ Latest Note
 - Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
 - To contribute, contact any staff in our discord server.
+- Our Discord Invitation has been paused! (09/01/2023)
 
 ---
 
