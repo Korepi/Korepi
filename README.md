@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="360" height="360" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
+  <a href="#"><img width="360" height="360" src="https://raw.githubusercontent.com/Korepi/Korepi/main/assets/korepi_logo.png"></a>
   <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
