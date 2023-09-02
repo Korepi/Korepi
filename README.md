@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#"><img width="360" height="360" src="https://raw.githubusercontent.com/Korepi/Korepi/main/assets/korepi_logo.png"></a>
-  <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="650" height="213" src="https://media.discordapp.net/attachments/1126893908597669989/1147375262980382790/image.png"></a>
 </p>
 
 <p align="center">
