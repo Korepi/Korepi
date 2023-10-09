@@ -6,7 +6,6 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/korek"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -32,18 +31,18 @@
 </table>
 </div>
 
+
 ---
 
-## ✨ 마지막 메모
+## ✨ 마지막 참고
 - 프로젝트가 [Korepi](https://github.com/Korepi/Korepi-Private-Repo)로 이동되었습니다.
-- 기여하려면 디스코드 서버의 스태프에게 연락하세요.
-- 디스코드 서버의 초대가 일시 중단되었습니다! (2023년 09월 01일)
+- 기여하려면 디스코드에서 스태프에게 연락하세요.
 
 ---
 
 ## ❓ 시작하기
 
-- [여기](https://github.com/Korepi/Korepi-Tutorial)에서 기본 튜토리얼로 이동합니다.
+- [이곳](https://github.com/Korepi/Korepi-Tutorial)에서 기본 튜토리얼로 이동합니다.
 
 ---
 ## 🎨 기능
@@ -55,19 +54,19 @@
 - 알림
 ### 플레이어
 - 갓모드(무적)
-- 공격 수정: 다중 타격/대상/애니메이션
-- 쿨다운 없음: 스킬/궁극기/달리기/활
-- 스태미나 무한
+- 공격 효과: 다중 타격/대상/애니메이션
+- 쿨다운 제거: 스킬/원소 폭발/대시/활 차징
+- 무한 스태미나
 - 노클립
 
 ### 월드
 - 자동 선령
-- 파티창 바로 열기
+- 파티창 즉시 열기
 - 게임 속도
 - 멍청한 적
 - 적 얼리기
-- 자동 파괴: 광물/방패/장식/식물
-- 자동 약탈/상자 열기
+- 자동 오브젝트 파괴: 광물/실드/장식물/식물
+- 자동 줍기/상자 열기
 - 줍기 범위
 - 자동 대화
 - 자동 나무 파밍
@@ -76,34 +75,34 @@
 - 자동 낚시
 - 킬 아우라
 - 몹 모으기
-- 전리품 모으기
+- 드랍템 모으기
 
 ### 텔레포트
-- 상자/눈동자 텔레포트 (가까운 곳으로 텔레포트)
-- 맵 텔레포트 (맵 마크로 텔레포트)
-- 커스텀 텔레포트 (목록 텔레포트)
+- 상자/눈동자 텔레포트 (가까운 곳에 텔레포트)
+- 맵 텔레포트 (지도에 표시하여 텔레포트)
+- 커스텀 텔레포트 (목록을 이용해 텔레포트)
 
 ### 시각 효과
 - ESP
 - 상호작용 맵
 - 원소 시야
 - 안개 제거
-- 프레임 제한 해제
+- FPS 제한 해제
 - 카메라 줌
 - 상자 표시
 - UI 숨기기
 - 인게임 내 브라우저
-- 엿보기
+- 훔쳐보기
 - 프로필 바꾸기: UID/닉네임/모험 등급/월드 레벨/아바타/명찰
 - 커스텀 날씨
-- 자유로운 카메라
+- 자유로운 시점
 - 페이몬 동행
-- 텍스쳐 바꾸기
+- 텍스쳐 변경
 
 ### 디버깅
 - 엔티티 관리자
 - 위치 정보
-- 프레임 그래프
+- FPS 그래프
 - [패킷 스니퍼](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
 ---
@@ -136,9 +135,9 @@
 
 ---
 ## ⚠ 중요한 정보
-- 정지를 당하더라도 그에 대한 책임은 당신에게 있습니다.
-- **치트를 사용한다는 사실과 이 치트에 대한 정보를 모든 곳에 퍼뜨리지 마십시오.**, 치트를 사용하고 있음을 알 수 있는 스크린샷이나 UID를 공개하지 않는 것이 좋습니다.
+- 정지의 책임은 당신에게 있습니다.
+- **외부 프로그램을 사용한다는 사실을 퍼트리지 마세요.** 치트 사용한다는 것 또는 UID를 밝히지 않는 것이 좋습니다.
 
 ---
 ## ⚙ 버그 신고
-- 이슈를 열고 이슈에 대한 세부 사항을 알려주시면 검토 및 수정하겠습니다.
+- 이슈를 열고 문제에 대한 세부 사항을 알려주시면 검토 및 수정하겠습니다.
