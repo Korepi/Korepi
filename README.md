@@ -36,24 +36,29 @@
 ---
 
 ## ✨ Latest Note
+
 - Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
 - To contribute, contact any staff in our discord server.
 
 ---
 
-## ❓ Getting Started
+## [Official website](https://korepi.com/)
 
-- Head to our main Tutorial [here](https://github.com/Korepi/Korepi-Tutorial)
+- [click me](https://korepi.com/)
 
 ---
+
 ## 🎨 Features
 
 ### General
+
 - Protection Bypass
 - In-Game GUI
 - Hotkeys
 - Notifications
+
 ### Player
+
 - God Mode(Invincible)
 - Attack Modifier: Multi-Hit/Target/Animation
 - No Cooldown: Skill/Ultimate/Sprint/Bow
@@ -61,6 +66,7 @@
 - No Clip
 
 ### World
+
 - Auto Seelie
 - Open Team Immediately
 - GameSpeed
@@ -79,11 +85,13 @@
 - Vacuum Loot
 
 ### Teleport
+
 - Chest/Oculi Teleport (Teleports to nearest)
 - Map Teleport (Teleport to mark on map)
 - Custom Teleport (Teleport through list)
 
-### Visuals 
+### Visuals
+
 - ESP
 - Interactive Map
 - Elemental Sight
@@ -101,12 +109,14 @@
 - Texture Changer
 
 ### Debugging
+
 - Entities Manager
 - Position Info
 - FPS Graph
 - [Packet Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 
 ---
+
 ## 🎣 Demo
 
 <details>
@@ -135,10 +145,14 @@
 </details>
 
 ---
+
 ## ⚠ Disclaimer
+
 - Use at your own risk.
 - **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
 
 ---
+
 ## ⚙ Bug report
+
 - Just open an issue and give us details about your issue, and we will consider reviewing and fixing them.
