@@ -38,6 +38,7 @@
 
 - Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
 - To contribute, contact any staff in our discord server.
+- Join https://discord.gg/cottonbuds now
 
 ---
 
