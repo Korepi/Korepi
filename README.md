@@ -36,7 +36,7 @@
 
 ## ✨ Latest Note
 
-- Join https://discord.gg/cottonbuds now
+- The project is simply dead btw.
 
 ---
 
